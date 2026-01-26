@@ -32,7 +32,7 @@ elseif input:sub(1, 2) == "rm" then
     elseif input == "AntiMal" then
        dofile("../luosdefend.jsap")
     elseif input == "Idk" then
-       print("Repeat with me [cat cat you you you cat] 1, 2, 3 [help help help help cat] 1, 2 ,3 [you you help help cat cat] [Thanks thanks thanks thanks]
+       print("Repeat with me [cat cat you you you cat] 1, 2, 3 [help help help help cat] 1, 2 ,3 [you you help help cat cat] [Thanks thanks thanks thanks]")
     else
         print("Unknown command")
     end
