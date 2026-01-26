@@ -8,10 +8,10 @@ while true do
     local input = io.read()
     
     if input == "help" then
-        print("Commands: help, about, shutdown, notes, luver, AntiMal, mskDir[Os], Idk")
+        print("Commands: help, about, shutdown, notes, luver, AntiMal, mskDir[Os], Id
     elseif input == "about" then
-        print("LuOS - Lua Operating System")
-        print("version Mega [kernel V1]")
+        print("LuOS - Lua Operating System
+        print("version Mega [kernel V1]
         print("Made by jsplashh")
     elseif input == "shutdown" then
         print("Shutting down LuOS...")
